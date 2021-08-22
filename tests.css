@@ -1,0 +1,111 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+			background-image:url(Screenshot_20210131-152205.png);
+			background-size: cover;
+			background-attachment: fixed;
+		}
+
+		.content{
+			background: white;
+			width: cover;
+			height:cover;
+			padding: 40px;
+			margin: 100px auto;
+			font-family: calibri;
+			border-radius: 10px;
+		}
+.regform
+{
+	width:800px;
+	background-color: rgb(0,0,0,0.6);
+	margin:auto;
+	color:#FFFFFF;
+	padding:10px 0px 10px 0px;
+	text-align:center;
+	margin-top:20px;
+	border-radius:15px 15px 0px 0px;
+}
+.main
+{
+	background-color: rgb(0,0,0,0.5);
+	width:800px;
+margin-top:50px;
+margin-left: 30%;
+}
+form
+{
+	padding:10px;
+
+}
+#name
+{
+	width:100%;
+	height:100px;
+}
+.name
+{
+	margin-left:25px;
+	margin-top:30px;
+	width:190px;
+	color:white;
+	font-weight: 700px;
+}
+.password
+{
+	margin-left:25px;
+	margin-top:-3%;
+	width:190px;
+	color:white;
+	font-weight: 700px;
+
+}
+.passwordconfo
+{
+	margin-left:20px;
+	margin-top:3%;
+	width:220px;
+	color:white;
+	font-weight: 700px;
+
+}
+.bankname
+{
+	width:20%;
+	margin-left:10%;
+	margin-top:2%;
+}
+.password1
+{
+	width:20%;
+	margin-left:10%;
+	margin-top:2%;
+}
+.passwordconfo1
+{
+	width:20%;
+	margin-left:10%;
+	margin-top:2%;
+}
+.button
+{
+	background-color: #3BAF9F;
+	width:10%;
+	height:5%;
+	margin-left:37%;
+	
+	
+	border-radius:12px;
+	border:2px solid #366437;
+	padding:; 14px 110px;
+	outline:None;
+	color:white;
+	cursor:pointer;
+
+}
+.button:hover
+{
+	background-color: #539054;
+}
